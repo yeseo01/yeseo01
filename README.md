@@ -8,9 +8,13 @@
 
 ### 🚀 About Me
 - 🧠 Studying **Artificial Intelligence** & **Robot Operating System (ROS 2)**
+  
 - 🛩️ Dual major in **Software Engineering** and **Mechanical Engineering**
+  
 - 🔥 Interested in **AI for Robotics**, especially for **search & rescue**, **fire response**, and **autonomous navigation**
+  
 - 🛠️ Working on **RISC-V emulator**, **ROS 2 simulation**, and **custom MLPs**
+  
 - 🌱 Currently learning:
   - Advanced control in **ROS 2 & Gazebo**
   - Embedded AI systems for **AI drones** and **mobile robots**
@@ -20,6 +24,7 @@
 
 ### 🧰 Tools & Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-808080?style=flat)
@@ -45,8 +50,6 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: `your_email@example.com`
-- 💬 Blog: [your-blog-link](https://your-blog.com)
-- 🛰️ Portfolio: [your-portfolio](https://your-portfolio.com)
+- 📧 Email: `yeseo011230@gmail.com`
 
 
