@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 About Me
-- 🧠 Studying **Artificial Intelligence** & **Robot Operating System (ROS 2)**
-  
 - 🛩️ Dual major in **Software Engineering** and **Mechanical Engineering**
+  
+- 🧠 Studying **Artificial Intelligence** & **Robot Operating System (ROS 2)**
   
 - 🔥 Interested in **AI for Robotics**, especially for **search & rescue**, **fire response**, and **autonomous navigation**
   
