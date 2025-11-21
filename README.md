@@ -35,8 +35,7 @@
 ## 📂 Featured Projects
 
 - **🧠 Implementing MLPs and ML Algorithms From Scratch**  
-  - Built multilayer perceptrons (MLPs) and several classical ML algorithms  
-    **entirely from scratch using NumPy** without high-level frameworks  
+  - Built multilayer perceptrons (MLPs) and several classical ML algorithms **entirely from scratch using NumPy** without high-level frameworks  
   - Focused on understanding fundamentals such as optimization, loss landscapes, and generalization
 
 - **✈️ Aerospace Energy & Flight Modeling Research *(ongoing)***  
