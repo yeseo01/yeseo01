@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Yeseo 👋🏻</h1>
 <p align="center">
-  <em>Building AI & autonomous robotics for space, satellite, and aerial exploration</em><br>
+  <em>Developing AI that uncovers hidden patterns in nature and solves problems beyond traditional modeling</em><br>
   <em>Software Engineering + Mechanical & Aerospace Engineering</em>
 </p>
 
@@ -9,11 +9,14 @@
 ## 🚀 About Me
 - 🎓 Dual major in **Software Engineering** and **Mechanical & Aerospace Engineering**
   
-- 🛰 Passionate about **space, satellite, and aerial data analysis**, and designing **AI models** for mission-critical applications
-  
-- 🤖 Interested in **exploration & rescue robotics** — autonomous systems that operate in extreme environments
-  
-- 🧠 Skilled in **building AI models from scratch** — implementing **MLP** and various **machine learning algorithms** without external ML libraries
+- 🧠 Passionate about modeling and controlling complex physical systems (fluid flows, energy systems, plasma, dynamics, etc.) through advanced **AI methods**
+
+- ✈️ Conducting research in **aerospace data analysis**, particularly AI models using satellite and aerial datasets
+
+- 🤖 Interested in **autonomous robotic systems** capable of exploration and rescue in extreme environments such as outer space and disaster zones
+
+- 🧩 Enjoy implementing algorithms from first principles —  
+  I build **MLPs and various machine learning algorithms from scratch** using only **NumPy**, without relying on high-level ML frameworks
 
 ---
 
@@ -27,28 +30,29 @@
 ![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=flat&logo=riscv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----   
+---
 
 ## 📂 Featured Projects
-- **🧠 Custom MLP & ML Algorithms**  
-  Implemented **multilayer perceptrons** and multiple **machine learning algorithms** entirely from scratch (NumPy only, no ML frameworks)
-  
-- **🚀 Space & Aerial Data AI** *(in progress)*  
-  Building AI models to process and analyze **satellite & aerial datasets**
-  
-- **🔧 Autonomous Fire-Fighting Robot**  *(planning stage)*  
-  ROS 2-based robot with camera, lidar, and robotic arm — detects flames & activates extinguisher
-  
-- **🚁 AI Drone for Disaster Search & Rescue** *(planning stage)*  
-  Real-time detection + autonomous navigation + comms for disaster response
+
+- **🧠 Implementing MLPs and ML Algorithms From Scratch**  
+  - Built multilayer perceptrons (MLPs) and several classical ML algorithms  
+    **entirely from scratch using NumPy** without high-level frameworks  
+  - Focused on understanding fundamentals such as optimization, loss landscapes, and generalization
+
+- **✈️ Aerospace Energy & Flight Modeling Research *(ongoing)***  
+  - Investigating how **flight variables and energy consumption** interact by analyzing real flight data  
+  - Aiming to develop **efficiency prediction models** for electric and hybrid aircraft
+
+- **🛰 Satellite & Aerial Data AI *(in planning)***  
+  - Designing AI pipelines for **environment understanding**, **anomaly detection**, and mission support using satellite and aerial imagery
 
 ---
 
 ## 🎯 Long-Term Vision
-- Develop **AI-driven exploration and rescue robots** for space missions, disaster recovery, and extreme environments
-- Contribute to **NASA, JAXA, or ESA** projects involving space robotics and AI navigation systems
+- Leverage AI to understand, predict, control, and even replace traditional models of complex natural systems — air, wind, space, and biological processes  
+- Ultimately, I aim to build **safe, efficient, and ethical AI-driven systems** for science, aerospace, robotics, and beyond
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact
 - 📧 Email: **yeseo011230@gmail.com**
