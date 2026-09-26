@@ -10,7 +10,8 @@
 ## About Me
 
 - 🎓 **B.S. in Software Engineering**, with **Aerospace Engineering as a double major**, Sejong University
-- ✈️ Worked on problems involving **electric-aircraft simulation, flight-trajectory analysis, vertiport site selection, sensor classification, and weather prediction**
+- 🔬 Former **Undergraduate Researcher at the Air Transportation System Design Laboratory (ATSDL)**, where I worked on electric-aircraft simulation and flight-data analysis
+- 🧑‍🏫 Served as a **Teaching Assistant for Introduction to Aerospace Artificial Intelligence**, evaluating student project presentations, reviewing project code, and grading assignments and exams
 - 🧩 Interested in solving problems end to end — from **problem formulation and algorithm design** to **implementation, validation, and reproducibility**
 - 🧠 Enjoy implementing machine-learning algorithms from first principles using **NumPy** to understand how they work beyond high-level APIs
 
@@ -42,9 +43,9 @@ Proposed a common-length trajectory normalization approach, implemented the HDBS
 
 **Programming:** Python · C · C++ · Verilog · MATLAB
 
-**Data & Machine Learning:** NumPy · pandas · scikit-learn · HDBSCAN · supervised and unsupervised learning · from-scratch ML implementation
+**Data & Machine Learning:** NumPy · pandas · scikit-learn · classification · clustering · model evaluation · from-scratch ML implementation
 
-**Engineering:** simulation · numerical modeling · data-analysis pipelines · testing · validation · reproducibility
+**Engineering:** simulation · numerical modeling · data analysis pipelines · automated testing · validation · reproducible workflows
 
 ---
 
