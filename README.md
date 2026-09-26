@@ -1,57 +1,61 @@
 <h1 align="center">Hi, I'm Yeseo 👋🏻</h1>
+
 <p align="center">
-  <em>Developing AI that uncovers hidden patterns in nature and solves problems beyond traditional modeling</em><br>
-  <em>Software Engineering + Mechanical & Aerospace Engineering</em>
+  <strong>Software engineering graduate building data-driven systems for complex real-world problems.</strong><br>
+  Aerospace simulation · Applied machine learning · Data analysis · Algorithms from scratch
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Dual major in **Software Engineering** and **Mechanical & Aerospace Engineering**
-  
-- 🧠 Passionate about modeling and controlling complex physical systems (fluid flows, energy systems, plasma, dynamics, etc.) through advanced **AI methods**
+## About Me
 
-- ✈️ Conducting research in **aerospace data analysis**, particularly AI models using satellite and aerial datasets
-
-- 🤖 Interested in **autonomous robotic systems** capable of exploration and rescue in extreme environments such as outer space and disaster zones
-
-- 🧩 Enjoy implementing algorithms from first principles —  
-  I build **MLPs and various machine learning algorithms from scratch** using only **NumPy**, without relying on high-level ML frameworks
+- 🎓 **B.S. in Software Engineering**, with **Aerospace Engineering as a double major**, Sejong University
+- ✈️ Worked on problems involving **electric-aircraft simulation, flight-trajectory analysis, vertiport site selection, sensor classification, and weather prediction**
+- 🧩 Interested in solving problems end to end — from **problem formulation and algorithm design** to **implementation, validation, and reproducibility**
+- 🧠 Enjoy implementing machine-learning algorithms from first principles using **NumPy** to understand how they work beyond high-level APIs
 
 ---
 
-## ⚙️ Skills & Tools
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-808080?style=flat)
-![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=flat&logo=riscv&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Selected Projects
+
+### ✈️ [Electric-Aircraft-Simulator](https://github.com/yeseo01/Electric-Aircraft-Simulator)
+
+Electric-aircraft mission simulator integrating **3-DOF flight dynamics, guidance and control, propulsion, and battery-state prediction** in a single time-stepped workflow.
+
+Designed and implemented the core flight-simulation workflow during undergraduate aerospace research, then extended the simulator with a step-based interface, structured telemetry, and regression tests.
+
+### 📍 [Vertiport-Site-Selection](https://github.com/yeseo01/Vertiport-Site-Selection)
+
+Weighted K-Means pipeline for **Regional Air Mobility vertiport site selection in South Korea**.
+
+Implemented the core K-Means algorithm from scratch with NumPy and contributed to a weighting strategy incorporating traffic congestion and inter-regional commuter demand.
+
+### 🛫 [Flight-Trajectory-Clustering](https://github.com/yeseo01/Flight-Trajectory-Clustering)
+
+Analyzed **591 real-world Incheon–Singapore flight trajectories** using Hausdorff distance and HDBSCAN.
+
+Proposed a common-length trajectory normalization approach, implemented the HDBSCAN clustering pipeline, experimented with hyperparameters, and performed reproducibility analysis of the resulting flight-path structure.
 
 ---
 
-## 📂 Featured Projects
+## Technical Focus
 
-- **🧠 Implementing MLPs and ML Algorithms From Scratch**  
-  - Built multilayer perceptrons (MLPs) and several classical ML algorithms **entirely from scratch using NumPy** without high-level frameworks  
-  - Focused on understanding fundamentals such as optimization, loss landscapes, and generalization
+**Programming:** Python · C · C++ · Verilog · MATLAB
 
-- **✈️ Aerospace Energy & Flight Modeling Research *(ongoing)***  
-  - Investigating how **flight variables and energy consumption** interact by analyzing real flight data  
-  - Aiming to develop **efficiency prediction models** for electric and hybrid aircraft
+**Data & Machine Learning:** NumPy · pandas · scikit-learn · HDBSCAN · supervised and unsupervised learning · from-scratch ML implementation
 
-- **🛰 Satellite & Aerial Data AI *(in planning)***  
-  - Designing AI pipelines for **environment understanding**, **anomaly detection**, and mission support using satellite and aerial imagery
+**Engineering:** simulation · numerical modeling · data-analysis pipelines · testing · validation · reproducibility
 
 ---
 
-## 🎯 Long-Term Vision
-- Leverage AI to understand, predict, control, and even replace traditional models of complex natural systems — air, wind, space, and biological processes  
-- Ultimately, I aim to build **safe, efficient, and ethical AI-driven systems** for science, aerospace, robotics, and beyond
+## Current Direction
+
+I'm interested in work where **software, data, machine learning, and domain knowledge** come together to solve open-ended engineering and operational problems.
+
+I enjoy understanding the underlying system and data, structuring complex problems into something computationally tractable, and building software that produces useful and verifiable results.
 
 ---
 
-## 📬 Contact
-- 📧 Email: **yeseo011230@gmail.com**
+## Contact
+
+📧 **yeseo011230@gmail.com**
